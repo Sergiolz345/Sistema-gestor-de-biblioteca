@@ -1,0 +1,6 @@
+C:\Users\Sergio\source\repos\AdminBiblioteca\dbSqlServer\bin\Debug\dbSqlServer.dll
+C:\Users\Sergio\source\repos\AdminBiblioteca\dbSqlServer\bin\Debug\dbSqlServer.pdb
+C:\Users\Sergio\source\repos\AdminBiblioteca\dbSqlServer\obj\Debug\Conexiones.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\AdminBiblioteca\dbSqlServer\obj\Debug\Conexiones.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\AdminBiblioteca\dbSqlServer\obj\Debug\dbSqlServer.dll
+C:\Users\Sergio\source\repos\AdminBiblioteca\dbSqlServer\obj\Debug\dbSqlServer.pdb

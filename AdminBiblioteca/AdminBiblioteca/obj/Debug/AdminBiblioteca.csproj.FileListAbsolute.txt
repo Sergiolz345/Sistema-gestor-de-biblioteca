@@ -1,0 +1,40 @@
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Properties.Resources.resources
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\AdminBiblioteca.exe.config
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\AdminBiblioteca.exe
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\AdminBiblioteca.pdb
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\dbSqlServer.dll
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\dbSqlServer.pdb
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.CopyComplete
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.exe
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.pdb
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Login.resources
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Menu.resources
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.ALibro.resources
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.BLibro.resources
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.NPrestamo.resources
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Registros.resources
+C:\Users\Sergio\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Historial.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\AdminBiblioteca.exe.config
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\AdminBiblioteca.exe
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\AdminBiblioteca.pdb
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\dbSqlServer.dll
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\bin\Debug\dbSqlServer.pdb
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.ALibro.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.BLibro.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Historial.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.NPrestamo.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Menu.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Login.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Registros.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.Properties.Resources.resources
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.GenerateResource.cache
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.csproj.CopyComplete
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.exe
+C:\Users\Sergio Lopez Castro\source\repos\AdminBiblioteca\AdminBiblioteca\obj\Debug\AdminBiblioteca.pdb
